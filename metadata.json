@@ -1,0 +1,7 @@
+{
+  "name": "Vexta Study Hub",
+  "description": "Modern dark-themed exam countdown and study motivation hub for Sri Lankan G.C.E. A/L and O/L students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
